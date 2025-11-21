@@ -52,4 +52,6 @@ PC with LT Spice software
 
 ## RESULT:
 
-  The RC Phase shift Oscillator was simulated and the frequency of Oscillation obtained during simulation was 1.49 kHz
+ <img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/b75bd934-cb8f-4607-9300-ef1d489e92c6" />
+
+
